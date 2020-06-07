@@ -1,7 +1,5 @@
 package com;
 
-import com.test.Items;
-import com.test.SnacksItem;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
